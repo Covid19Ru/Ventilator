@@ -33,3 +33,6 @@ DIY Аппарат искусственной вентиляции легких
 [Low-Cost Ventilator Wins Sloan Health Care Prize](https://www.medicaldesignandoutsourcing.com/low-cost-ventilator-wins-sloan-health-care-prize/)  
 [OxVent](https://oxvent.org/)  
 [Ambovent](https://members.smoove.io//view.ashx?message=h44798251O122335815O219654O122397585&r=1009)  
+
+## Сравнение проектов
+https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml
