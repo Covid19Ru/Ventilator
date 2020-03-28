@@ -38,7 +38,5 @@
 https://docs.google.com/spreadsheets/d/e/2PACX-1vTYAfldxoIiO46VAWH1NlhrwFBn9mguqS2bh1spnLEu4AVVN1cj1vaEm6vOp5Z6UnaAbUwd8dslCXdM/pubhtml
 
 ## Обсуждение
-Telegram https://t.me/covid19_ru_ventilator
+Telegram https://t.me/covid19_ru_ventilator  
 Slack https://covid19ru.slack.com/
-
-
